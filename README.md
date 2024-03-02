@@ -1,2 +1,2 @@
 # Tea-2
-This is my second  Tea☕pproject task
+This is my second  Tea☕ project task
